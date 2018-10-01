@@ -42,3 +42,6 @@ Run with `./minishell`.
 
 * Manages expansions $ and ˜
 
+## Screenshot
+
+![alt text](/1.png)
